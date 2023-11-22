@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/thinktinker/snykyteam#readme",
   "dependencies": {
-    "serverless": "^3.37.0"
+    "serverless": "^3.37.0",
+    "serverless-offline": "^13.3.0"
   }
 }
