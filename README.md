@@ -21,7 +21,7 @@
 8. Update main.yml P1
 9. Add .gitignore P2
 
-# Activity 4: (requires Snyk, therefore runn npm audit instead)
+# Activity 4: (requires Snyk, therefore run npm audit instead)
 
 1. Update main.yml (scan), commit & push -> P3
 2. Install snyk commit & push -> P4/P1
