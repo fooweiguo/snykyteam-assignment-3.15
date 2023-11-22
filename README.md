@@ -20,3 +20,10 @@
 7. All team mates need to pull
 8. Update main.yml P1
 9. Add .gitignore P2
+
+# Activity 4:
+
+1. Update main.yml (scan), commit & push -> P3
+2. Install snyk commit & push -> P4/P1
+3. Create new application role in AWS and get the access_key & secret and 4. put it in github action env P5/P2
+5. Update main.yml (deploy), commit & push -> P1/P3
