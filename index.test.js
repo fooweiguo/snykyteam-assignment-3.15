@@ -7,7 +7,7 @@ describe('Lambda Handler', () => {
       statusCode: 200,
       body: JSON.stringify(
         {
-          message: "DELFRINANDO PRANATA ON COHORT 3 THIS EVENING",
+          message: "3.14 Activity! This is function is done by SnykyTeam!",
         },
         null,
         2
