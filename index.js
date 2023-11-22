@@ -4,7 +4,7 @@ module.exports.handler = async (event) => {
       body: JSON.stringify(
         {
           message: "3.14 Activity! This is function is done by SnykyTeam!",
-          input: event,
+          // input: event,
         },
         null,
         2
