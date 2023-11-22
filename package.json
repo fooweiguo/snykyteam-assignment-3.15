@@ -1,0 +1,22 @@
+{
+  "name": "snykyteam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thinktinker/snykyteam.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thinktinker/snykyteam/issues"
+  },
+  "homepage": "https://github.com/thinktinker/snykyteam#readme",
+  "dependencies": {
+    "serverless": "^3.37.0"
+  }
+}
