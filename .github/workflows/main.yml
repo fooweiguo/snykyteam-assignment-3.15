@@ -1,0 +1,6 @@
+name: CICD for Serverless Application
+run-name: ${{ github.actor }} is doing CICD for serverless application
+
+on:
+  push:
+    branches: [ main, "*"]
