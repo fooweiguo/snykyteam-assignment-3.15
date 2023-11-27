@@ -233,4 +233,4 @@ jobs:
 
 Here is the image of the logging from cloudwatch.
 
-![Image of the Log File](Screenshot 2023-11-27 at 8.54.00 PM.png)
+![Image of the Log File](https://github.com/fooweiguo/snykyteam-assignment-3.15/blob/main/Screenshot%202023-11-27%20at%208.54.00%20PM.png)
