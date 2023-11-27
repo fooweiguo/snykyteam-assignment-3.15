@@ -228,3 +228,9 @@ jobs:
         AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
         AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
 ```
+
+### Logging
+
+Here is the image of the logging from cloudwatch.
+
+![Image of the Log File](Screenshot 2023-11-27 at 8.54.00 PM.png)
